@@ -1,6 +1,7 @@
 # Oscar Room Lighting
 Creating automated lighting systems for Oscar's tiny room.
-## Potential Lighting Systems
+## Initial Intentions For This Project
+### Potential Lighting Systems
 * Automated color temperature changing with bed position
 * Accent lighting turning on and off with bed position, over record player, maybe on top of shelf
 * Def moving disco ball, but not necessarily with bed position 
