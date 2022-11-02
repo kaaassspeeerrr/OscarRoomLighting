@@ -14,3 +14,6 @@ Creating automated lighting systems for Oscar's tiny room.
 * [Elegoo UNO R3 Starter Kit](https://www.amazon.com/gp/product/B01D8KOZF4/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 * [Power Socket Inlet & Rocker Switch](https://www.amazon.com/BIQU-Rocker-Switch-Socket-Module/dp/B07KS2TQ45/ref=sr_1_4?crid=2ETRY5RSOFFRG&keywords=inlet+power+plug+socket+with+switch&qid=1667399322&qu=eyJxc2MiOiIxLjc3IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=inlet+power+plug+socket+with+switch%2Caps%2C86&sr=8-4)
 * [Mosfets](https://www.amazon.com/WeiMeet-RFP30N06LE-N-Channel-Mosfet-Arduino/dp/B07CTF1JVD/ref=sr_1_3?crid=E83LLQTW0UMJ&keywords=mosfet&qid=1667399900&qu=eyJxc2MiOiI0Ljg2IiwicXNhIjoiNC43MyIsInFzcCI6IjQuNTEifQ%3D%3D&sprefix=mosfet%2Caps%2C96&sr=8-3)
+## Wiring Diagram
+Not Complete Yet
+![E51A6E71-F9F4-4A7D-9B57-417B64AE796E_1_102_o](https://user-images.githubusercontent.com/64116042/199527218-202d442d-821e-4282-be0b-c5bb5446fa5f.jpeg)
