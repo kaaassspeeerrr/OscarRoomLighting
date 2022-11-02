@@ -1,4 +1,4 @@
-# OscarRoomLighting
+# Oscar Room Lighting
 Creating automated lighting systems for Oscar's tiny room.
 ## Potential Lighting Systems
 * Automated color temperature changing with bed position
